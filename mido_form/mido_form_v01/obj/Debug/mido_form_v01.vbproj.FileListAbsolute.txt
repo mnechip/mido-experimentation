@@ -1,0 +1,11 @@
+C:\Users\abc\source\repos\mnechip\mido-experimentation\mido_form\mido_form_v01\obj\Debug\mido_form_v01.vbprojAssemblyReference.cache
+C:\Users\abc\source\repos\mnechip\mido-experimentation\mido_form\mido_form_v01\obj\Debug\mido_form_v01.Resources.resources
+C:\Users\abc\source\repos\mnechip\mido-experimentation\mido_form\mido_form_v01\obj\Debug\mido_form_v01.vbproj.GenerateResource.cache
+C:\Users\abc\source\repos\mnechip\mido-experimentation\mido_form\mido_form_v01\obj\Debug\mido_form_v01.mido_form_01.resources
+C:\Users\abc\source\repos\mnechip\mido-experimentation\mido_form\mido_form_v01\bin\Debug\mido_form_v01.exe.config
+C:\Users\abc\source\repos\mnechip\mido-experimentation\mido_form\mido_form_v01\bin\Debug\mido_form_v01.exe
+C:\Users\abc\source\repos\mnechip\mido-experimentation\mido_form\mido_form_v01\bin\Debug\mido_form_v01.pdb
+C:\Users\abc\source\repos\mnechip\mido-experimentation\mido_form\mido_form_v01\bin\Debug\mido_form_v01.xml
+C:\Users\abc\source\repos\mnechip\mido-experimentation\mido_form\mido_form_v01\obj\Debug\mido_form_v01.exe
+C:\Users\abc\source\repos\mnechip\mido-experimentation\mido_form\mido_form_v01\obj\Debug\mido_form_v01.xml
+C:\Users\abc\source\repos\mnechip\mido-experimentation\mido_form\mido_form_v01\obj\Debug\mido_form_v01.pdb
