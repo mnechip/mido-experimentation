@@ -1,0 +1,16 @@
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Debug\python-vbnet-form01.vbprojAssemblyReference.cache
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Debug\python_vbnet_form01.Resources.resources
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Debug\python-vbnet-form01.vbproj.GenerateResource.cache
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\bin\Debug\python-vbnet-form01.exe.config
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\bin\Debug\python-vbnet-form01.exe
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\bin\Debug\python-vbnet-form01.pdb
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\bin\Debug\python-vbnet-form01.xml
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Debug\python-vbnet-form01.exe
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Debug\python-vbnet-form01.xml
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Debug\python-vbnet-form01.pdb
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Debug\python_vbnet_form01.midiForm.resources
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Debug\python_vbnet_form01.imageBox.resources
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Debug\python_vbnet_form01.debugTools.resources
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Debug\python_vbnet_form01.debug_tools_popup.resources
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Debug\python-vbnet-form01.vbproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Debug\python_vbnet_form01.file_open_dialogue.resources

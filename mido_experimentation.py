@@ -1,4 +1,3 @@
-
 from mido import MidiFile
 import numpy
 

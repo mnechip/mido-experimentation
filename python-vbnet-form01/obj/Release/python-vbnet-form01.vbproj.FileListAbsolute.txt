@@ -1,0 +1,11 @@
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\bin\Release\python-vbnet-form01.exe.config
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\bin\Release\python-vbnet-form01.exe
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\bin\Release\python-vbnet-form01.pdb
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\bin\Release\python-vbnet-form01.xml
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Release\python-vbnet-form01.vbprojAssemblyReference.cache
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Release\python_vbnet_form01.Resources.resources
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Release\python-vbnet-form01.vbproj.GenerateResource.cache
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Release\python-vbnet-form01.exe
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Release\python-vbnet-form01.xml
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Release\python-vbnet-form01.pdb
+C:\Users\abc\source\repos\mnechip\mido-experimentation\python-vbnet-form01\obj\Release\python_vbnet_form01.midiForm.resources

@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\midiReader Versions",
+    "\\mido",
+    "\\mido\\messages"
   ],
-  "SelectedNode": "\\mido_experimentation.py",
+  "SelectedNode": "\\midiReader Versions\\midiReader_v0.2.1.py",
   "PreviewInSolutionExplorer": false
 }
